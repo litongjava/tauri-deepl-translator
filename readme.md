@@ -1,2 +1,2 @@
 # tauri-deepl-translator
-![](readme_files/1.jpg)
+![](readme_files/1.png)
